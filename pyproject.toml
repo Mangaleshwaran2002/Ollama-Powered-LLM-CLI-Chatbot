@@ -1,0 +1,7 @@
+[project]
+name = "interactive_ollama_chat"
+version = "0.1.0"
+description = "interactive terminal ollama chat"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
