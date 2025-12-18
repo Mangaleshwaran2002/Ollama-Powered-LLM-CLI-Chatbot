@@ -59,10 +59,5 @@ Contributions are welcome! Follow these steps:
 4. Submit a Pull Request with a clear description of the change.
 5. Please open an issue first if you’re planning a large modification.
 
-<<<<<<< HEAD
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-=======
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> 555e96a (README file and some code were modified)
